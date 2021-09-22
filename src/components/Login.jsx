@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react";
 
-const Footer = () => {
-    return <div className="footer">Footer goes here</div>
-}
+const Login = () => {
+  return <div className="login">Login goes here</div>;
+};
 
-export default Footer
+export default Login;
